@@ -1,3 +1,8 @@
+FILES IN THIS FOLDER THAT I WORKED ON
+scheduler.C/H
+thread.C/H
+
+
 CSCE 410/611: MP5 -- README.TXT
 
 This file describes the content of this directory.
